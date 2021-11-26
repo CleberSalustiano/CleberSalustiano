@@ -1,7 +1,7 @@
 # Hello, I'm Cleber Salustiano👋
 <a>
   <a href="https://github.com/CleberSalustiano">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CleberSalustiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=CleberSalustiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right"/>
 <a/>
 
 - 🔭 I’m currently a **Systems Analyst Intern in IFES**
