@@ -3,8 +3,6 @@
   <a href="https://github.com/CleberSalustiano">
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleberSalustiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleberSalustiano&layout=compact&langs_count=7&theme=dark"/>
-
 <a/>
 
 - 🔭 I’m currently a **Systems Analyst Intern in IFES**
