@@ -3,6 +3,7 @@
   <a href="https://github.com/CleberSalustiano">
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleberSalustiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  align="right"/>
+
 <a/>
 
 - 🔭 I’m currently a **Systems Analyst Intern in IFES**
@@ -19,7 +20,8 @@
   <img align="center" alt="Cleber-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Cleber-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cleber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+  <img align="center" alt="Cleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>  
     
   ##
