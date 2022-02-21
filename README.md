@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a **Systems Analyst Intern in IFES**
 - 🌱 I’m currently learning more about **Java, Python and Js**
-- 💬 I like talk about News Tech, Programming Languages and integration WSL.
+- 💬 I like talk about News Tech, Software Engineering, Data Science and integration WSL.
 - 🐧 **Linux** is the why I'm here.
 - 😄 Follow me on [Instagram], [LinkedIn] and here.
     
