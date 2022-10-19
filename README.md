@@ -2,7 +2,7 @@
 <a>
   <a href="https://github.com/CleberSalustiano">
     <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleberSalustiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"  align="right"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clebersalustiano&show_icons=true&bg_color=001100&title_color=23DB8B&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true"  align="right"/>
 
 <a/>
 
