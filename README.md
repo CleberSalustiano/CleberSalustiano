@@ -1,11 +1,5 @@
 # Hello, I'm Cleber Salustiano👋
-   <div align="center">
-  <a href="https://github.com/CleberSalustiano">
-    <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clebersalustiano&show_icons=true&bg_color=001100&title_color=23DB8B&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=clebersalustiano&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
-  
-</div>
+ 
 
 - 🔭 I’m currently a **Intern Systems Analyst at IFES**.
 - 🌱 I’m currently learning more about **TypeScript, Java, Python and Web Development**.
@@ -36,7 +30,13 @@
 <div> 
 
   
+<div align="center">
+  <a href="https://github.com/CleberSalustiano">
+    <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clebersalustiano&show_icons=true&bg_color=001100&title_color=23DB8B&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=clebersalustiano&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
   
+</div>
   
 <div align="center">
 <img src="https://github.com/clebersalustiano/clebersalustiano/blob/output/github-contribution-grid-snake.svg" />
