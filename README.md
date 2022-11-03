@@ -35,9 +35,9 @@
   <a href="https://github.com/CleberSalustiano">
     <br>
  
-   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebersalustiano&layout=compact&langs_count=6&theme=blue-green&bg_color=001100&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=clebersalustiano&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
-  
+ 
+   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebersalustiano&layout=compact&langs_count=6&theme=blue-green&bg_color=001100&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" /> 
 </div>
   
 <div align="center">
