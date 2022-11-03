@@ -1,12 +1,13 @@
 # Hello, I'm Cleber Salustiano👋
  
+ <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=clebersalustiano&show_icons=true&bg_color=001100&title_color=23DB8B&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true" />
 
 - 🔭 I’m currently a **Intern Systems Analyst at IFES**.
 - 🌱 I’m currently learning more about **TypeScript, Java, Python and Web Development**.
 - 💬 I like to talk about News Tech, Software Engineering, Data Science, Machine Learning, API and integration WSL.
 - 🐧 **Linux** is the why I'm here.
 - 😄 Follow me on [Instagram], [LinkedIn] and here.
-    
+
  
     
 [Instagram]: https://www.instagram.com/bdextreme/
@@ -33,8 +34,9 @@
 <div align="center">
   <a href="https://github.com/CleberSalustiano">
     <br>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=clebersalustiano&show_icons=true&bg_color=001100&title_color=23DB8B&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true" />
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=clebersalustiano&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
+ 
+   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebersalustiano&layout=compact&langs_count=6&theme=blue-green&bg_color=001100&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=clebersalustiano&theme=blue-green&background=001100&ring=23DB8B&fire=21FF00&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF"  />
   
 </div>
   
