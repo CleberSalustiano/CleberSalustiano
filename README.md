@@ -2,7 +2,7 @@
  
  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=clebersalustiano&show_icons=true&bg_color=001100&title_color=23DB8B&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true" />
 
-- 🔭 I’m currently a **Intern Systems Analyst at IFES**.
+- 🔭 I'm currently a **Junior FullStack Developer at Directy**.
 - 🌱 I’m currently learning more about **TypeScript, Java, Python and Web Development**.
 - 💬 I like to talk about News Tech, Software Engineering, Data Science, Machine Learning, API and integration WSL.
 - 🐧 **Linux** is the why I'm here.
