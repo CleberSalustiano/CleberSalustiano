@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently a **Junior FullStack Developer at Directy**.
 - 🌱 I’m currently learning more about **Java(Type)Script, Java, Python and Web Development**.
-- 💬 I like to talk about News Tech, Software Engineering, Data Science, Machine Learning, API and integration WSL.
+- 💬 I like to talk about News Tech, Software Engineering, Software Architecture, Machine Learning, API and integration WSL.
 - 🐧 **Linux** is the why I'm here.
 - 😄 Follow me on [Instagram], [LinkedIn] and here.
 
