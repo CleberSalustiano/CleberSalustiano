@@ -39,7 +39,4 @@
  
    <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebersalustiano&layout=compact&langs_count=6&theme=blue-green&bg_color=001100&title_color=FFFFFF&text_color=FFFFFF" /> 
 </div>
-  
-<div align="center">
-<img src="https://github.com/clebersalustiano/clebersalustiano/blob/output/github-contribution-grid-snake.svg" />
-</div>
+ 
