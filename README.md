@@ -2,7 +2,7 @@
  
  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=clebersalustiano&show_icons=true&bg_color=001100&title_color=23DB8B&text_color=FFFFFF&icon_color=23DB8B&count_private=true&hide_border=true" />
 
-- 🔭 I'm currently a **Junior Developer**.
+- 🔭 I'm currently a **Junior Developer at Code n'App**.
 - 🌱 I’m currently learning more about **Java(Type)Script, Java, Python and Web Development**.
 - 💬 I like to talk about News Tech, Software Engineering, Software Architecture, Machine Learning, API and integration WSL.
 - 🐧 **Linux** is the why I'm here.
